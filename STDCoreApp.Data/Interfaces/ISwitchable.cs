@@ -1,7 +1,4 @@
 ﻿using STDCoreApp.Data.Enums;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace STDCoreApp.Data.Interfaces
 {
