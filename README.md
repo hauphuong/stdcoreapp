@@ -1,0 +1,2 @@
+# stdcoreapp
+STD core app
