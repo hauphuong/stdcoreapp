@@ -5,8 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entities\" />
     <Folder Include="IRepositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\STDCoreApp.Infrastructure\STDCoreApp.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
